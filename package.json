@@ -1,7 +1,10 @@
 {
   "name": "test-mcp-server-js",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "dist/index.js",
+  "bin": {
+    "your-mcp-server": "dist/index.js"  
+  },
   "files": ["dist"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
