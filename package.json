@@ -3,7 +3,7 @@
   "version": "1.0.7",
   "main": "dist/index.js",
   "bin": {
-    "your-mcp-server": "dist/index.js"  
+    "test-mcp-server-js": "dist/index.js"  
   },
   "files": ["dist"],
   "scripts": {
